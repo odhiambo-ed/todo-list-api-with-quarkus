@@ -2,8 +2,6 @@
 
 # Quarkus To-Do List App
 
-![Quarkus Logo](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon.svg)
-
 ## Description
 
 > The Quarkus To-Do List App is a lightweight and efficient web application for managing your tasks. Built with Quarkus, it offers fast performance and seamless JSON data handling. This project serves as a great example for Java developers interested in modern web development with Quarkus.
@@ -11,6 +9,7 @@
 
 
 ## Technologies and Languages Used
+
 
 ![Java Logo](https://icongr.am/devicon/java-original.svg?size=100&color=currentColor) Java
 ![Quarkus Logo](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon.svg) Quarkus
