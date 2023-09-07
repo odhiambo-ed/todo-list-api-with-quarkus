@@ -35,5 +35,10 @@ public class Todo {
     public void setId(String id) {
         this.id = id;
     }
+
+    // Setter for the title
+    public void setTitle(String title) {
+        this.title = title;
+    }
     
 }
