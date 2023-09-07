@@ -1,60 +1,88 @@
-# todo-list-api-with-quarkus
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+## Sneak Peek
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+<p align="center">
+  <img src="https://media.giphy.com/media/wOvgSQVwgMRSUfgyxb/giphy.gif" />
+</p>
 
-## Running the application in dev mode
+# Rails Budget App
 
-You can run your application in dev mode that enables live coding using:
-```shell script
-./mvnw compile quarkus:dev
+## Description
+
+> Rails Budget App is an app build on Ruby on Rails. It is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
+>
+![Quarkus Logo](https://icongr.am/devicon/quarkus-original.svg?size=100&color=currentColor)
+
+## Screenshots
+
+<p float="left">
+  <img src="/b3.png" width="200" />
+  <img src="/b4.png" width="200" />
+  <img src="/b3.png" width="200" />
+  <img src="/b4.png" width="200" />
+</p>
+
+## Demo Video
+
+[Video Link](https://loom.com/share/96758514a8f94be9b52ebe052f671c7c)
+
+## Live Demo Link
+
+[Live Link](https://rails-budget-app-white3d.herokuapp.com/)
+
+## Built With
+
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=100&color=currentColor)
+![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=100&color=currentColor)
+![Ruby](https://icongr.am/devicon/postgresql-original.svg?size=100&color=currentColor)
+
+## Get Started
+
+### Run
+
+```
+To get a clone of the project, run `git clone https://github.com/white3d/Rails-Budget-App.git`
 ```
 
-> **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at http://localhost:8080/q/dev/.
-
-## Packaging and running the application
-
-The application can be packaged using:
-```shell script
-./mvnw package
 ```
-It produces the `quarkus-run.jar` file in the `target/quarkus-app/` directory.
-Be aware that it’s not an _über-jar_ as the dependencies are copied into the `target/quarkus-app/lib/` directory.
-
-The application is now runnable using `java -jar target/quarkus-app/quarkus-run.jar`.
-
-If you want to build an _über-jar_, execute the following command:
-```shell script
-./mvnw package -Dquarkus.package.type=uber-jar
+cd /Rails-Budget-App
 ```
 
-The application, packaged as an _über-jar_, is now runnable using `java -jar target/*-runner.jar`.
 
-## Creating a native executable
+### Available Scripts
 
-You can create a native executable using: 
-```shell script
-./mvnw package -Dnative
-```
+Gets all the required dependencies of the projects.
 
-Or, if you don't have GraalVM installed, you can run the native executable build in a container using: 
-```shell script
-./mvnw package -Dnative -Dquarkus.native.container-build=true
-```
+**`bundle install`**
 
-You can then execute your native executable with: `./target/todo-list-api-with-quarkus-1.0.0-SNAPSHOT-runner`
+For more details, see [the Installation docs page](https://www.ruby-lang.org/en/).
 
-If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.
+## Author(s)
 
-## Related Guides
+  <a href="https://github.com/white3d" target="blank"><img align="center"
+        src="https://github.com/white3d/GitHub-User-Content/blob/main/Passport_Ed-M.png"
+        alt="Edward" height="80" width="80"/></a>   **Edward Odhiambo**
 
-- RESTEasy Reactive ([guide](https://quarkus.io/guides/resteasy-reactive)): A Jakarta REST implementation utilizing build time processing and Vert.x. This extension is not compatible with the quarkus-resteasy extension, or any of the extensions that depend on it.
+- GitHub: [@whit3d](https://github.com/white3d)
+- Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
+- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
+- Portfolio: [Edward Odhiambo](https://edwardodhiambo.com/)
 
-## Provided Code
+## 🤝 Contributing
 
-### RESTEasy Reactive
+Contributions, issues, and feature requests are welcome!!!
 
-Easily start your Reactive RESTful Web Services
+Feel free to check the [issues page](https://github.com/white3d/Rails-Budget-App/issues)
 
-[Related guide section...](https://quarkus.io/guides/getting-started-reactive#reactive-jax-rs-resources)
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) the original design owner.
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
