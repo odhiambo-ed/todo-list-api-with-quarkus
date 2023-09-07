@@ -17,7 +17,12 @@ public class Todo {
     }
 
     // Getter for the id
-    public void getId() {
+    public String getId() {
         return id;
+    }
+
+    // Getter for the title
+    public String getTitle() {
+        return title;
     }
 }
