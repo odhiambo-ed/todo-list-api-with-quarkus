@@ -37,13 +37,29 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/white3d/Rails-Budget-App.git
+git clone https://github.com/odhiambo-ed/todo-list-api-with-quarkus.git
 ```
 
+2. Navigate to the project directory:
+
 ```
-cd /Rails-Budget-App
+cd /todo-list-api-with-quarkus
 ```
 
+3. Build and run the application:
+
+```
+mvn clean install
+```
+```
+./mvnw quarkus:dev
+```
+
+4. Open your web browser and access the application:
+
+```
+http://localhost:8080
+```
 
 ### Available Scripts
 
@@ -59,16 +75,24 @@ For more details, see [the Installation docs page](https://www.ruby-lang.org/en/
         src="https://github.com/white3d/GitHub-User-Content/blob/main/Passport_Ed-M.png"
         alt="Edward" height="80" width="80"/></a>   **Edward Odhiambo**
 
-- GitHub: [@whit3d](https://github.com/white3d)
+- GitHub: [@whit3d](https://github.com/odhiambo-ed)
 - Twitter: [@odhiambo_ed](https://twitter.com/odhiambo_ed)
-- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo-6a462a21b/)
+- LinkedIn: [Edward Odhiambo](https://www.linkedin.com/in/edward-odhiambo/)
 - Portfolio: [Edward Odhiambo](https://edwardodhiambo.com/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!!!
 
-Feel free to check the [issues page](https://github.com/white3d/Rails-Budget-App/issues)
+Feel free to check the [issues page](https://github.com/odhiambo-ed/todo-list-api-with-quarkus.git/issues)
+
+If you'd like to contribute to this project, please follow these guidelines:
+
+- Fork the repository.
+- Create a new branch.
+- Make your changes and commit them.
+- Push your changes to your fork.
+- Create a pull request with a clear description of your changes.
 
 ## Show your support
 
@@ -76,8 +100,11 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to [Gregoire Vella on Behance](https://www.behance.net/gregoirevella) the original design owner.
+- Hat tip to [Quarkus community](https://quarkus.io/) for their amazing framework!
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
+
+Have a happy coding experience! 💪
+![Excited](https://github.com/odhiambo-ed/animated-gifs/blob/master/excited-happy/3z.gif)
