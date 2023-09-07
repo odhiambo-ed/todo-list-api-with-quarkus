@@ -25,4 +25,9 @@ public class Todo {
     public String getTitle() {
         return title;
     }
+
+    // Getter for the completed
+    public boolean isCompleted() {
+        return completed;
+    }
 }
