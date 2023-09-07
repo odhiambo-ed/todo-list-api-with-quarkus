@@ -2,6 +2,8 @@
 
 # Quarkus To-Do List App
 
+![Excited](https://github.com/odhiambo-ed/animated-gifs/blob/master/excited-happy/3z.gif)
+
 ## Description
 
 > The Quarkus To-Do List App is a lightweight and efficient web application for managing your tasks. Built with Quarkus, it offers fast performance and seamless JSON data handling. This project serves as a great example for Java developers interested in modern web development with Quarkus.
@@ -107,4 +109,3 @@ Give a ⭐️ if you like this project!
 This project is [MIT](./LICENSE) licensed.
 
 Have a happy coding experience! 💪
-![Excited](https://github.com/odhiambo-ed/animated-gifs/blob/master/excited-happy/3z.gif)
