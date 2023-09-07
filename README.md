@@ -1,41 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Sneak Peek
+# Quarkus To-Do List App
 
-<p align="center">
-  <img src="https://media.giphy.com/media/wOvgSQVwgMRSUfgyxb/giphy.gif" />
-</p>
-
-# Rails Budget App
+![Quarkus Logo](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon.svg)
 
 ## Description
 
-> Rails Budget App is an app build on Ruby on Rails. It is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.
->
-![Quarkus Logo](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon.svg)
+> The Quarkus To-Do List App is a lightweight and efficient web application for managing your tasks. Built with Quarkus, it offers fast performance and seamless JSON data handling. This project serves as a great example for Java developers interested in modern web development with Quarkus.
 
-## Screenshots
 
-<p float="left">
-  <img src="/b3.png" width="200" />
-  <img src="/b4.png" width="200" />
-  <img src="/b3.png" width="200" />
-  <img src="/b4.png" width="200" />
-</p>
 
-## Demo Video
+## Technologies and Languages Used
 
-[Video Link](https://loom.com/share/96758514a8f94be9b52ebe052f671c7c)
-
-## Live Demo Link
-
-[Live Link](https://rails-budget-app-white3d.herokuapp.com/)
-
-## Built With
-
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=100&color=currentColor)
-![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=100&color=currentColor)
-![Ruby](https://icongr.am/devicon/postgresql-original.svg?size=100&color=currentColor)
+- ![Java Logo](https://icongr.am/devicon/java-original.svg?size=100&color=currentColor) Java
+- ![Quarkus Logo](https://icongr.am/devicon/quarkus-original.svg?size=100&color=currentColor) Quarkus
+- ![RESTful Logo](https://icongr.am/devicon/restful-api-original.svg?size=100&color=currentColor) RESTful Web Services
+- ![JSON Logo](https://icongr.am/devicon/json-original.svg?size=100&color=currentColor) JSON Data Serialization
 
 ## Get Started
 
