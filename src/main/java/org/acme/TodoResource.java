@@ -2,7 +2,8 @@ package org.acme;
 
 import java.util.ArrayList;
 
-import io.quarkus.arc.lookup.LookupIfProperty.List;
+import java.util.List;
+
 import jakarta.ws.rs.Consumes;
 import jakarta.ws.rs.DELETE;
 import jakarta.ws.rs.GET;
