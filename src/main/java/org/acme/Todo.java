@@ -30,4 +30,10 @@ public class Todo {
     public boolean isCompleted() {
         return completed;
     }
+
+    // Setter for the id
+    public void setId(String id) {
+        this.id = id;
+    }
+    
 }
