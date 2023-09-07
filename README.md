@@ -17,12 +17,28 @@
 - ![RESTful Logo](https://icongr.am/devicon/restful-api-original.svg?size=100&color=currentColor) RESTful Web Services
 - ![JSON Logo](https://icongr.am/devicon/json-original.svg?size=100&color=currentColor) JSON Data Serialization
 
-## Get Started
+## Features
 
-### Run
+- Create, update, and delete tasks.
+- Efficient JSON data processing.
+- Easy-to-follow code structure.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Java Development Kit (JDK) 11 or higher installed.
+- Maven build tool installed.
+- Git for cloning the repository.
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps:
+
+1. Clone the repository:
 
 ```
-To get a clone of the project, run `git clone https://github.com/white3d/Rails-Budget-App.git`
+git clone https://github.com/white3d/Rails-Budget-App.git
 ```
 
 ```
