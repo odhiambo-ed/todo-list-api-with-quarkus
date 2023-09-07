@@ -17,4 +17,7 @@ public class Todo {
     }
 
     // Getter for the id
+    public void getId() {
+        return id;
+    }
 }
