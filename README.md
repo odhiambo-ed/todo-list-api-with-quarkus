@@ -13,7 +13,7 @@
 ## Technologies and Languages Used
 
 ![Java Logo](https://icongr.am/devicon/java-original.svg?size=100&color=currentColor) Java
-![Quarkus Logo](https://icongr.am/devicon/quarkus-original.svg?size=100&color=currentColor) Quarkus
+![Quarkus Logo](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon.svg) Quarkus
 ![RESTful Logo](https://github.com/odhiambo-ed/white3d/blob/main/api-blue.svg) RESTful Web Services
 ![JSON Logo](https://github.com/odhiambo-ed/white3d/blob/main/json.svg) JSON Data Serialization
 
