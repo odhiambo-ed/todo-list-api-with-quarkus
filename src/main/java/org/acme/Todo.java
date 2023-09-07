@@ -6,5 +6,15 @@ public class Todo {
     private String title;
     private boolean completed;
 
-    
+    // No-arg constructor
+    public Todo() {
+    }
+
+    public Todo(String id, String title, boolean completed) {
+        this.id = id;
+        this.title = title;
+        this.completed = completed;
+    }
+
+    // Getter for the id
 }
